@@ -1,0 +1,7 @@
+Receta canelones:
+- paso 1: preparo la pasta
+- paso 2: preparo la salsa
+- paso 3: mezclo los ingredientes
+- paso 4: sirvo la receta
+- paso 5: meto los canelones en el horno
+- paso 6: espero a que estén listos
